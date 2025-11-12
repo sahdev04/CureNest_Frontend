@@ -46,7 +46,7 @@ const PrivacyPolicy: React.FC = () => {
                             <p><strong>Application</strong> refers to CureNest, the software program provided by the Company.</p>
                         </li>
                         <li>
-                            <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to YourDoctor.</p>
+                            <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to CureNest.</p>
                         </li>
                         <li>
                             <p><strong>Country</strong> refers to: Madhya Pradesh, India</p>

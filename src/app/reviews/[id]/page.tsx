@@ -38,7 +38,7 @@ console.log(doctorId)
     // Here you would typically make an API call to submit the review
 
     const data = {
-        name : "Alok Tamrakar",
+        name : "Divya Gupta",
         comment: review,
         rating : rating,
     }
