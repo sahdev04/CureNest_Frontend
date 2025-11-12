@@ -12,8 +12,8 @@ const UpdatePasswordData = () => {
 export function generateMetadata() {
 
   return {
-    title: "Update Password - YourLab",
-    description: "Reset your YourLab account password securely. Follow the steps to recover access to your account with ease.",
+    title: "Update Password - CureNest",
+    description: "Reset your CureNest account password securely. Follow the steps to recover access to your account with ease.",
 
     keywords: [
       "forgot password",
@@ -28,11 +28,11 @@ export function generateMetadata() {
 
     robots: "index, follow",
     openGraph: {
-      title: "Update Password - YourLab",
-      description: "Easily reset your YourLab password and regain access to your account with secure steps.",
+      title: "Update Password - CureNest",
+      description: "Easily reset your CureNest password and regain access to your account with secure steps.",
       type: "website",
-      url: "https://www.yourlab.com/updatepassword", // URL of the page
-      siteName: "YourLab",
+      url: "https://www.curenset.com/updatepassword", // URL of the page
+      siteName: "CureNest",
     },
   };
 }

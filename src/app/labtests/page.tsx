@@ -45,8 +45,8 @@ const LabTests: React.FC = () => {
 
 export function generateMetadata() {
   return {
-      title: "YourLab - LabTests",
-      description: "Access a wide range of lab tests with YourLab."
+      title: "CureNest - LabTests",
+      description: "Access a wide range of lab tests with CureNest."
   }
 }
 

@@ -38,7 +38,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const staticRoutes = [
     {
-      url: "https://www.yourlab.in",
+      url: "https://www.curenest.in",
       lastModified: new Date(),
       changeFrequency: "yearly" as "yearly",
       priority: 1,

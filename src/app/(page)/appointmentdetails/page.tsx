@@ -12,15 +12,15 @@ export default function AppointmentDetailPage() {
 
 export function generateMetadata(){
   return{
-    title: "Appointment Details - YourLab",
+    title: "Appointment Details - CureNest",
     description: "Handles the submission of an appointment and the display of a doctor's details.",
     keywords: "appointment details, doctor details, patient details, reschedule, medical appointment",
     robots: "index, follow",
     openGraph: {
-      title: "Appointment Details - YourLab",
+      title: "Appointment Details - CureNest",
       description: "Handles the submission of an appointment and the display of a doctor's details.",
       type: "website",
-      siteName: "YourLab",
+      siteName: "CureNest",
     }
   }
 }

@@ -281,7 +281,7 @@ const AppointmentDetail = () => {
           {/* Header */}
           <header className="flex justify-between border-b-[1rem] border-b-[rgb(62_151_229)] relative">
             <img
-              src={"/YOURLab_Logo.png"}
+              src={"/CureNest-logo.png"}
               alt="cardImage"
               className="w-[26%] object-fit block ml-[3rem] mr-[2rem] py-[0.5rem]"
             />
@@ -355,9 +355,9 @@ const AppointmentDetail = () => {
           <footer className="bg-[#0A8E8A] h-[5rem] w-[100%] p-[1rem] text-white flex items-center justify-between mt-auto 2xl:mt-[0.7rem]">
             <div className="flex text-[1rem]">
               <img src="/webico.png" alt="web icon" className="w-[2rem] invert-1 mr-[0.5rem] mt-[0.2rem]" />
-              Visit here - <p className="ml-[0.2rem]">www.yourlab.in</p>
+              Visit here - <p className="ml-[0.2rem]">www.curenest.in</p>
             </div>
-            <div className="flex items-center mt-[-0.5rem]">Contact us - +91 9516785745</div>
+            <div className="flex items-center mt-[-0.5rem]">Contact us - +91 8435698740</div>
           </footer>
         </div>
 

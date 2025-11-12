@@ -40,7 +40,7 @@ const Settings:React.FC = () => {
 
 export function generateMetadata() {
   return {
-      title: "YourLab - Profile Setting",
+      title: "CureNest - Profile Setting",
       description: "Manage your profile settings on YourLab effortlessly. Update your personal information, privacy preferences, and account security settings to enhance your experience."
   }
 }

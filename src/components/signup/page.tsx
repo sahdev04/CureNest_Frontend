@@ -93,7 +93,7 @@ const SignupPage: React.FC<SignProps> = ({onSignupCancel, onBack}) => {
 
     // Convert FormData to plain object if needed
     const registerData = {
-      name:'yourlab',
+      name:'CureNest',
       fullName: signupData.name,
       email: signupData.email,
       password: signupData.password,

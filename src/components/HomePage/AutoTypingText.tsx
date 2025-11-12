@@ -80,7 +80,7 @@ const AutoTypingText: React.FC<AutoTypingTextProps> = ({
 
 export default function AutoTypingAndDeletingText() {
   const textArray = [
-    "Welcome to YourLab!", 
+    "Welcome to CureNest!", 
     "Your health, your way.", 
     "Empowering better healthcare.",
     "Discover personalized care.",

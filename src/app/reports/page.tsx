@@ -24,8 +24,8 @@ const Reports:React.FC = () => {
 
 export function generateMetadata() {
   return {
-      title: "YourLab - Reports",
-      description: "Access your lab reports securely through YourLab."
+      title: "CureNest - Reports",
+      description: "Access your lab reports securely through CureNest."
   }
 }
 

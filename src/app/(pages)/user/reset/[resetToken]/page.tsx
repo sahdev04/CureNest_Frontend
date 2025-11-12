@@ -19,15 +19,15 @@ const ResetPageData = () => {
 export function generateMetadata({ params }: Params) {
   const { resetToken } = params;
   return {
-    title: `Reset Password - Token: ${resetToken} | YourLab`,
+    title: `Reset Password - Token: ${resetToken} | CureNest`,
     description: `Reset your password securely with the token: ${resetToken}. Create a new password for your account.`,
-    keywords: "reset password, change password, YourLab",
+    keywords: "reset password, change password, CureNest",
     robots: "index, follow",
     openGraph: {
-      title: `Reset Password - Token: ${resetToken} | YourLab`,
+      title: `Reset Password - Token: ${resetToken} | CureNest`,
       description: `Reset your password securely with the token: ${resetToken}. Create a new password for your account.`,
       type: "website",
-      siteName: "YourLab",
+      siteName: "CureNest",
     },
   }
 }

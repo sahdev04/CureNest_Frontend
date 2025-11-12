@@ -25,15 +25,15 @@ export function generateMetadata() {
     "YourLab medical payments"
   ].join(", ");
   return {
-    title: "Doctor Payment - YourLab",
+    title: "Doctor Payment - CureNest",
     description: "Pay your doctor's appointment fee securely. Get real-time updates on fees and discounts, including special offers on emergency and first-time visit fees.",
     keywords,
     robots: "index, follow",
     openGraph: {
-      title: "Doctor Payment - YourLab",
+      title: "Doctor Payment - CureNest",
       description: "Pay your doctor's appointment fee securely. Get real-time updates on fees and discounts, including special offers on emergency and first-time visit fees.",
       type: "website",
-      siteName: "YourLab",
+      siteName: "CureNest",
     },
   }
 }

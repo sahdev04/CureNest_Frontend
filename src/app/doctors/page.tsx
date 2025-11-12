@@ -21,30 +21,30 @@ export async function generateMetadata() {
       .join(", ");
 
     return {
-      title: "Doctors - YourLab",
-      description: "Discover qualified doctors on YourLab. Browse through our comprehensive listings to find healthcare professionals that match your needs. Schedule appointments and view profiles easily.",
+      title: "Doctors - CureNest",
+      description: "Discover qualified doctors on CureNest. Browse through our comprehensive listings to find healthcare professionals that match your needs. Schedule appointments and view profiles easily.",
       keywords: dynamicData,
       robots: "index, follow",
       openGraph: {
-        title: "Doctors - YourLab",
-        description: "Search through YourLab's comprehensive database to find doctors and healthcare specialists. Book your appointment online with ease.",
+        title: "Doctors - CureNest",
+        description: "Search through CureNest's comprehensive database to find doctors and healthcare specialists. Book your appointment online with ease.",
         type: "website",
-        url: "https://www.yourlab.com/doctors",
+        url: "https://www.curenset.com/doctors",
       },
     };
   } catch (error) {
     console.error("Error fetching doctors metadata:", error);
     
     return {
-      title: "Doctors - YourLab",
-      description: "Browse through qualified doctors at YourLab. Schedule appointments and view profiles easily.",
+      title: "Doctors - CureNest",
+      description: "Browse through qualified doctors at CureNest. Schedule appointments and view profiles easily.",
       keywords: "doctors, healthcare, specialists",
       robots: "index, follow",
       openGraph: {
-        title: "Doctors - YourLab",
-        description: "Search through YourLab's comprehensive database to find doctors and healthcare specialists. Book your appointment online with ease.",
+        title: "Doctors - CureNest",
+        description: "Search through CureNest's comprehensive database to find doctors and healthcare specialists. Book your appointment online with ease.",
         type: "website",
-        url: "https://www.yourlab.com/doctors",
+        url: "https://www.curenset.com/doctors",
       },
     };
   }

@@ -11,7 +11,7 @@ const ServicesSection = () => {
 							<div className="flex flex-col items-center justify-center gap-5">
 								<h2 className='text-[2.2rem] text-center'>We have Multiple Specialist To<br /> Improve Your Health</h2>
 								<Image width={80} height={80} src="/section-img.png" alt="#" />
-								<p className='font-medium text-[1.2rem] text-gray-600'>At YourLab, our mission is to prioritize your well-being by offering a wide range of services tailored to meet your unique health needs.</p>
+								<p className='font-medium text-[1.2rem] text-gray-600'>At CureNest, our mission is to prioritize your well-being by offering a wide range of services tailored to meet your unique health needs.</p>
 							</div>
 						</div>
 					</div>
